@@ -13,4 +13,4 @@ The first line of input contains two integers $a$ and $b$ separated by a space.
 
 # Output
 
-Print $a$ and $b&s remainder on the first line of output.
+Print $a$ and $b$s remainder on the first line of output.
