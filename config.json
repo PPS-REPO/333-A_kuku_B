@@ -111,7 +111,7 @@
             "only_deploy": false
         },
         {
-            "script": "manual 1",
+            "script": "manual",
             "description": "",
             "is_example": true,
             "only_deploy": false
