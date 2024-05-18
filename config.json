@@ -111,7 +111,7 @@
             "only_deploy": false
         },
         {
-            "script": "random_cc 1",
+            "script": "manual 1",
             "description": "",
             "is_example": true,
             "only_deploy": false
