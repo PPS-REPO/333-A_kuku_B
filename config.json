@@ -105,6 +105,12 @@
             "only_deploy": false
         },
         {
+            "script": "generator_alias args1 args2 args3",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
             "script": "random_cc",
             "description": "",
             "is_example": true,
