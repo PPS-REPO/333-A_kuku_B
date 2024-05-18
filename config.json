@@ -9,6 +9,30 @@
         "time": 1000,
         "memory": 134217728,
         "factor": {
+            "java8": {
+                "time": 0,
+                "memory": 536870912
+            },
+            "cpp17": {
+                "time": 0,
+                "memory": 536870912
+            },
+            "cpp11": {
+                "time": 0,
+                "memory": 536870912
+            },
+            "c11": {
+                "time": 0,
+                "memory": 536870912
+            },
+            "c99": {
+                "time": 0,
+                "memory": 536870912
+            },
+            "pypy3": {
+                "time": 0,
+                "memory": 536870912
+            },
             "py3": {
                 "time": 0,
                 "memory": 536870912
